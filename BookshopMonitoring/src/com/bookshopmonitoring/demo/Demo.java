@@ -6,6 +6,13 @@ import com.bookshopmonitoring.observer.BestsellerAuthorObserver;
 import com.bookshopmonitoring.observer.BestsellerBookObserver;
 import com.bookshopmonitoring.observer.BestsellerGenreObserver;
 
+/**
+ * 
+ * @author Romulo Augusto - romuloaugusto.silva@gmail.com
+ * 
+ * Demonstration class of the Bookshop Monitoring.
+ *
+ */
 public class Demo {
 	
 	public static void main(String[] args) {
