@@ -1,3 +1,3 @@
 # bookshopMonitoring-worldnet
 
-#See documentation in /Game/Documentation
+#See documentation in /BookshopMonitoring/Documentation
