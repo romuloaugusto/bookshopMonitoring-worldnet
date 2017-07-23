@@ -1,0 +1,8 @@
+This solution is using the Observer design pattern. In this approach when a given 
+object is modified, the Subject notifies its Observers.
+
+In our case when a book is sold the BooksDataSubject object notifies its list 
+of observers. These observers are of type BooksDataObserver. Each observer has 
+a specific action described in the child classes of BooksDataObserver in 
+the update() method, for example #BestsellerAuthorObserver.update
+
